@@ -1,1 +1,1 @@
-FROM l3v11x/mltb:latest
+FROM ghcr.io/missemily2022/anasty:heroku
