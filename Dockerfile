@@ -1,1 +1,1 @@
-FROM anasty17/mltb:latest
+FROM anasty17/mltb:heroku
